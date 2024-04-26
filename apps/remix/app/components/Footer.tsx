@@ -10,18 +10,18 @@ export default function Footer() {
   return (
     <div className="text-white w-full mt-auto flex flex-col items-center justify-between px-5 pt-16 mb-10 md:px-10 mx-auto sm:flex-row">
       <Link to="/" className="text-xl font-black leading-none select-none logo">
-        VMAIL.DEV
+        DEV2.SHOP
       </Link>
       <Link
         className="mt-4 text-sm text-gray-400 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0"
-        to="https://vmail.dev"
+        to="https://DEV2.SHOP"
         target="_blank">
         {" "}
         © 2024 Products of Yesmore
       </Link>
       <Link
         className="text-gray-300 text-sm hover:text-gray-500 ml-1 hidden md:block"
-        to="https://status.vmail.dev"
+        to="https://status.DEV2.SHOP"
         target="_blank">
         · Status
       </Link>
@@ -29,7 +29,7 @@ export default function Footer() {
         <Link to="/about">{t("About")}</Link>
         <Link to="/privacy">{t("Privacy")}</Link>
         <Link to="/terms">{t("Terms")}</Link>
-        <Link to="https://status.vmail.dev" target="_blank">
+        <Link to="https://status.DEV2.SHOP" target="_blank">
           Status
         </Link>
       </div>
