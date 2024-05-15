@@ -51,11 +51,15 @@ pnpm run remix:dev
 
 运行前复制 `apps/remix/.env.example` 文件并重命名为 `apps/remix/.env`，填写必要的环境变量。
 
+## 🌈 下一步计划
+
+- [ ] 使用 [Cloudflare D1](https://developers.cloudflare.com/d1/) 数据库重构，简化部署流程
+
 ## ❤️ 交流群
 
 有任何问题或意见，欢迎加入交流群讨论。
 
-- 添加微信 `yesmore_cc` (**备注你的职业**) 拉讨论群或[扫码进群](https://img.inke.app/file/494a7126352427a3b34d8.jpg) 
+- 添加微信 `yesmore_cc` (**备注你的职业**) 拉讨论群
 - Discord: https://discord.gg/d68kWCBDEs
 
 ## 🎨 Inspired By
